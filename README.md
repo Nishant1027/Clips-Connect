@@ -17,7 +17,7 @@ Done for **IAIN532C: Artificial Intelligence Part: B** Course, at Indian Institu
 
 
 
-- **Step to run the file**<br /><br />
+## Step to run the file
 - **Step 1** Make sure you have CLIPSJNI folder to have package  _net.sf.clipsrules_ or download [**CLIPSJNI**](https://liquidtelecom.dl.sourceforge.net/project/clipsrules/CLIPS/6.40_Beta_2/clips_jni_640.zip) from here.<br /><br />
 - **Step 2** For connecting clips with java you should have **CLIPSJNI.dll** file in C:/Windows. If not copy the CLIPSJNI.dll file from ./CLIPSJNI/CLIPSJNI.dll and paste it to the location.<br /><br />
 - **Step 3** Add the ClIPSJNI.jar file in your project dependency.<br /><br />
