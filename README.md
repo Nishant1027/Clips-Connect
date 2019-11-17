@@ -8,16 +8,14 @@ Done for **IAIN532C: Artificial Intelligence Part: B** Course, at Indian Institu
 ### Requirements
 - [**OS**] - Windows.
 - [*Netbeans*](https://download.netbeans.org/netbeans/8.0.1/final/bundles/netbeans-8.0.1-windows.exe) IDE for our project.
-
+- [*clips*](https://jaist.dl.sourceforge.net/project/clipsrules/CLIPS/6.30/clips_windows_64_bit_executables_630.msi) Download Clips if you have not<br />
+- Please make sure you have JDK and JRE installed, or download [**Java SE Development Kit**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) from here. Install it, and make sure adding `jdk/bin` directory to your environment path.<br />
 
 ### Technologies Used
 - [*Java*](https://www.java.com/en) programming language.
 - [*Clips*](http://www.clipsrules.net) Tool for Building Expert Systems
 
 
-
-## Getting Started
-Please make sure you have JDK and JRE installed, or download [**Java SE Development Kit**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) from here. Install it, and make sure adding `jdk/bin` directory to your environment path.<br />
 
 - **Step to run the file**<br /><br />
 - **Step 1** Make sure you have CLIPSJNI folder to have package  _net.sf.clipsrules_ or download [**CLIPSJNI**](https://liquidtelecom.dl.sourceforge.net/project/clipsrules/CLIPS/6.40_Beta_2/clips_jni_640.zip) from here.<br /><br />
