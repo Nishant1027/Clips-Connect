@@ -17,10 +17,10 @@ Done for **IAIN532C: Artificial Intelligence Part: B** Course, at Indian Institu
 
 
 ## Getting Started
-Please make sure you have JDK and JRE installed, or download [**Java SE Development Kit**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) from here. Install it, and make sure adding `jdk/bin` directory to your environment path.
+Please make sure you have JDK and JRE installed, or download [**Java SE Development Kit**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) from here. Install it, and make sure adding `jdk/bin` directory to your environment path.<br>
 
 ###**Step to run the file**
-###**Step 1** Make sure you have CLIPSJNI folder to have package  _net.sf.clipsrules_ or download [**CLIPSJNI**](https://liquidtelecom.dl.sourceforge.net/project/clipsrules/CLIPS/6.40_Beta_2/clips_jni_640.zip) from here.
-###**Step 2** For connecting clips with java you should have **CLIPSJNI.dll** file in C:/Windows. If not copy the CLIPSJNI.dll file from ./CLIPSJNI/CLIPSJNI.dll and paste it to the location.
-###**Step 3** Add the ClIPSJNI.jar file in your project dependency.
-###**Step 4** Run the ExpertSystem.java file. 
+###**Step 1** Make sure you have CLIPSJNI folder to have package  _net.sf.clipsrules_ or download [**CLIPSJNI**](https://liquidtelecom.dl.sourceforge.net/project/clipsrules/CLIPS/6.40_Beta_2/clips_jni_640.zip) from here.<br>
+###**Step 2** For connecting clips with java you should have **CLIPSJNI.dll** file in C:/Windows. If not copy the CLIPSJNI.dll file from ./CLIPSJNI/CLIPSJNI.dll and paste it to the location.<br>
+###**Step 3** Add the ClIPSJNI.jar file in your project dependency.<br>
+###**Step 4** Run the ExpertSystem.java file. <br>
